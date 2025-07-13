@@ -1,5 +1,4 @@
-# ocp_resource_report
-#OpenShift Resource Reporting Tool
+# OpenShift Resource Reporting Tool
 This Python-based tool automates the collection and analysis of OpenShift (OCP) cluster resource data, providing insights into resource quotas, pod limits, and overall resource management practices. It generates a comprehensive Excel report with detailed data sheets and visual charts for quick understanding.
 
 
