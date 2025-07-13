@@ -71,4 +71,5 @@ The generated Excel file will contain the following sheets:
 - Reduced Quota Requests: Proactively addresses bottlenecks and reduces reactive requests.
 - Adherence to Best Practices: Fosters a more stable and predictable shared environment.
 
-
+# License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/osamazaid/ocp_resource_report/blob/main/LICENSE) file for details.
