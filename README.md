@@ -30,7 +30,7 @@ Ensure you are logged into your OpenShift cluster with an account that has suffi
 # Installation
 - Clone the repository (or save the script):
 ~~~
-git clone https://github.com/your-repo/ocp-resource-reporting.git
+git clone https://github.com/osamazaid/ocp_resource_report.git
 cd ocp-resource-reporting
 ~~~
 - Since you have the script directly, save the provided Python code as `ocp_resource_report.py` in your desired directory.
