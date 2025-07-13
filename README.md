@@ -58,28 +58,18 @@ The script will output debug information to the console as it collects data and 
 
 # Report Structure
 1. The generated Excel file will contain the following sheets:
-
 2. Quota Ratio Chart: Pie chart visualizing namespace quota distribution.
-
 3. Limits Ratio Chart: Pie chart visualizing container limit distribution.
-
 4. Namespace Quotas: Tabular data of all configured resource quotas.
-
 5. Pod Limits and Requests: Tabular data of resource limits and requests for all containers within pods.
-
 6. Containers with No Limits: Tabular data of containers lacking CPU/memory limits.
-
 7. Namespaces with No Quota: Tabular data of namespaces without any resource quotas.
 
-#Benefits
+# Benefits
 - Enhanced Visibility: Centralized view of resource allocations and consumption.
-
 - Proactive Capacity Planning: Informs future resource allocation decisions.
-
 - Improved Resource Utilization: Identifies inefficient applications and promotes best practices.
-
 - Reduced Quota Requests: Proactively addresses bottlenecks and reduces reactive requests.
-
 - Adherence to Best Practices: Fosters a more stable and predictable shared environment.
 
 
